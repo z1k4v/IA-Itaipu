@@ -64,6 +64,7 @@ Novas habilidades serão testadas ao extremo
     - Nomear o commit de acordo com a padronização previamente definida
     - Selecionar commit
 10. Realizar o Publish Branch;
+    - Será necessário inserir a chave de acesso
 11. No GitHub realizar Compare & pull request;
     - Alterar base para "develop"
     - Selecionar Create pull request
