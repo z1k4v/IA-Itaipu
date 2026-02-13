@@ -2,7 +2,7 @@
 
 Novas habilidades serão testadas ao extremo
 
-## Nomeclaturas e boas práticas
+## Nomeclaturas e boas práticas para branches e commits
 
 [Branches]
 -Tipos
