@@ -1,4 +1,4 @@
-# Faça um programa que exiba o dobrp de um número inserido pelo usuário.
+# Faça um programa que exiba o dobro de um número inserido pelo usuário.
 
 print("Vamos aprender a calcular o dobro de um número?")
 
