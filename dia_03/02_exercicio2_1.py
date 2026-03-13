@@ -11,10 +11,7 @@ count = 1   # contador sequencial
 # Recebendo os inputs
 
 while count <= numero_input:
-    altura = float(
-                input("""Digite aqui uma altura:
-                    """)
-                    )
+    altura = float(input("Digite aqui uma altura:"))
     soma += altura
     count += 1
 
